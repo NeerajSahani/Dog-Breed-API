@@ -1,0 +1,3 @@
+.env
+__pycache__
+/model/modelv2.h5
